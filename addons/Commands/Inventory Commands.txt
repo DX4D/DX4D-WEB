@@ -1,0 +1,61 @@
+ - - - - - - - - - - - - - - - - - - - - -
+I N V E N T O R Y  C O M M A N D  L I S T
+ - - - - - - - - - - - - - - - - - - - - -
+//Creates an Item and uses it right away
+GET
+GET GOLD
+
+//Creates an item or gold for yourself
+CREATE
+CREATE GOLD
+
+//Equips an item if it is in your backpack
+EQUIP
+
+//Creates an item or gold for you or your target
+//Give Gold also adds extra loot to a Monster
+GIVE
+GIVE GOLD
+GIVE ONLINE
+GIVE ONLINE GOLD
+GIVE US
+GIVE US GOLD
+GIVE EVERYONE
+GIVE EVERYONE GOLD
+GIVE ALL
+GIVE ALL GOLD
+
+//Removes a gold or item from you or your target
+REMOVE
+REMOVE GOLD
+REMOVE ONLINE
+REMOVE ONLINE GOLD
+REMOVE OUR
+REMOVE OUR GOLD
+REMOVE US
+REMOVE US GOLD
+REMOVE EVERYONE
+REMOVE EVERYONE GOLD
+REMOVE ALL
+REMOVE ALL GOLD
+
+//Takes an item from your target
+TAKE
+TAKE GOLD
+
+//Gives an item in your backpack to your target
+TRADE
+TRADE GOLD
+
+//Steals an item or gold from your target
+STEAL
+STEAL GOLD
+
+//Throws an item or gold at your target and does damage
+THROW
+THROW GOLD
+
+ - - - a l i a s e s - - -
+GREATE = (GET) (MAKE)
+GIVE = (ADD)
+REMOVE = (DELETE) (DEL) (REM)
