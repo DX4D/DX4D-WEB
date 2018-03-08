@@ -1,0 +1,18 @@
+LICENSE
+
+You may not distribute any scripts included in this package unless otherwise specified in this document.
+
+You may include any .dll files in this package in your own projects (commercial or non-commercial).
+
+You may only distribute scripts from this package in a compiled form (in your Game.exe for example)
+
+ - - - - - - - - -
+EXTENDING THE CORE
+ - - - - - - - - -
+You are free to create and sell Components that extend the DX4DCORE.
+
+Please direct your customers to https://www.dx4d.com/ to purchase the DX4DCORE.
+
+If you would like to sell your core extensions on the DX4D website, contact us through the website.
+
+Those components cannot include any of the scripts in the DX4DCORE...only .dll files.
