@@ -1,0 +1,10 @@
+INSTALLING A COMMAND PACK
+1) Go to the __DX4DCONFIG__ folder in your project's Asset folder and open the _COMMANDS_ file.
+2) Go to the COMMAND PACKS section
+3) Remove the // from in front of the Command Packs that you have installed.
+
+REQUIRES
+DX4DCORE must be installed to use Command Packs
+
+HELP & SUPPORT + LICENSE AGREEMENT
+Available on https://www.dx4d.com/

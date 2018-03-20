@@ -25,7 +25,7 @@ GIVE EVERYONE GOLD
 GIVE ALL
 GIVE ALL GOLD
 
-//Removes a gold or item from you or your target
+//Removes an item or gold from you or your target
 REMOVE
 REMOVE GOLD
 REMOVE ONLINE
@@ -43,7 +43,7 @@ REMOVE ALL GOLD
 TAKE
 TAKE GOLD
 
-//Gives an item in your backpack to your target
+//Gives an item or gold in your backpack to your target
 TRADE
 TRADE GOLD
 

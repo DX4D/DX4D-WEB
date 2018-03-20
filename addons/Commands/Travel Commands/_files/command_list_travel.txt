@@ -1,0 +1,10 @@
+ - - - - - - - - - - - - - - - - - - - - -
+T R A V E L  C O M M A N D  L I S T
+ - - - - - - - - - - - - - - - - - - - - -
+//Teleport to the specified location (configured in the _LOCATIONS_ file located in the __DX4DCONFIG__ Assets folder)
+GO
+GOTO
+
+//Shows your current X Y Z location
+POS
+COORDS

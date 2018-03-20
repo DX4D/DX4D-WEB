@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DX4D.CORE</name>
+    </assembly>
+    <members>
+        <member name="M:BaseManager.LoadManager">
+            <summary>Runs on update until Loaded is true</summary>
+            <returns>The return value sets the Loaded variable.</returns>
+        </member>
+        <member name="M:BaseManager.UpdateManager">
+            <summary>Runs on LateUpdate</summary>
+            <returns>Returning false will make it run again next frame. True will not run again until OnValidate or NeedsUpdate is set to true.</returns>
+        </member>
+    </members>
+</doc>

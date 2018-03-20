@@ -1,0 +1,21 @@
+ - - - - - - - - - - - - - - - - - - - - -
+E N T I T Y  C O M M A N D  L I S T
+ - - - - - - - - - - - - - - - - - - - - -
+//Kills your target
+KILL
+
+//Heals your target or yourself if no target is selected
+HEAL
+
+//Hide your target or yourself if no target is selected
+HIDE
+
+//Show your target or yourself if no target is selected
+SHOW
+
+//Examine your target to compare it's power with your own
+CHECK
+
+//Use the skill in the specified SkillBar slot
+//Example: /skill 1
+SKILL
